@@ -1,4 +1,4 @@
-# doc2tex - Simple DOCX ↔ LaTeX Converter
+# doc2tex - DOCX ↔  LaTeX Converter
 
 DocTeX Ultimate Converter is a production-ready tool for converting documents between DOCX and LaTeX without losing formatting, tables, images, equations, footnotes, or multilingual content. It helps convert Microsoft Word (.docx) files to LaTeX (.tex) and vice versa. It's meant to be run locally.
 
