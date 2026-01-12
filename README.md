@@ -1,6 +1,6 @@
 # doc2tex - Simple DOCX ↔ LaTeX Converter
 
-Hey! This is a simple document converter I built for my engineering project. It helps convert Microsoft Word (.docx) files to LaTeX (.tex) and vice versa. It's meant to be run locally.
+DocTeX Ultimate Converter is a production-ready tool for converting documents between DOCX and LaTeX without losing formatting, tables, images, equations, footnotes, or multilingual content. It helps convert Microsoft Word (.docx) files to LaTeX (.tex) and vice versa. It's meant to be run locally.
 
 ## Features
 - Convert DOCX to LaTeX (preserves headings, bold/italic, tables)
